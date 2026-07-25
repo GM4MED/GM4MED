@@ -28,15 +28,44 @@
 
 ---
 
-### 📊 Estatísticas da Organização
+### 📊 Perfil e Tecnologias
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GM4MED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM4MED&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300">
+      <strong>🛠️ Backend & Linguagens</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/Java%20EE-%23ED8B00.svg?style=for-the-badge&logo=jakarta-ee&logoColor=white" alt="Java EE" />
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center" width="300">
+      <strong>🗄️ Banco de Dados</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <strong>🌐 Frontend & Web</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <br><br>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <br><br>
+      <img src="https://img.shields.io/badge/XHTML-007396?style=for-the-badge&logo=html5&logoColor=white" alt="XHTML" />
+    </td>
+    <td align="center" width="300">
+      <strong>⚙️ DevOps & Ferramentas</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <br><br>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
