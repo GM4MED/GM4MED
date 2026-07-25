@@ -1,4 +1,4 @@
-<h1 align="center">GM4 MedTech 🚀</h1>
+<h1 align="center">G4Med Intelligent Health System 🚀</h1>
 
 <p align="center">
   Desenvolvimento de Sistemas e Soluções Tecnológicas para a Saúde
