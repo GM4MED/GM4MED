@@ -9,3 +9,6 @@
 | | | <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | |
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GM4MED/GM4MED/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
